@@ -24,7 +24,7 @@ In your terminal, run:
 npm install
 ```
 
-### 5. Start the Server
+### 3. Start the Server
 In your terminal, run:
 
 ```bash
